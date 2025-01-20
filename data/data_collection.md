@@ -81,4 +81,4 @@ After preprocessing, the cleaned and tokenized data is saved as new CSV files in
 
 This document has outlined the process of collecting and preprocessing the data used in the `Ner_System` project. The data comes from two main sources: financial news articles and financial reports. The raw data is cleaned, standardized, tokenized, and saved in a format suitable for further analysis and model training.
 
-For detailed information on the preprocessing steps, refer to this code file where i did processing : `data/processed_data/preprocess_data.py` 
+For detailed information on the preprocessing steps, refer to this code file where i did processing : `data/processed_data/news/preproc_news.py` or : `data/processed_data/financial_reports/prepro_fin.py`
